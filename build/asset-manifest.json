@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profile-card/static/css/main.907f71c6.chunk.css",
+    "main.js": "/profile-card/static/js/main.d01a3d8d.chunk.js",
+    "main.js.map": "/profile-card/static/js/main.d01a3d8d.chunk.js.map",
+    "runtime-main.js": "/profile-card/static/js/runtime-main.a5cf00a1.js",
+    "runtime-main.js.map": "/profile-card/static/js/runtime-main.a5cf00a1.js.map",
+    "static/js/2.5bff3375.chunk.js": "/profile-card/static/js/2.5bff3375.chunk.js",
+    "static/js/2.5bff3375.chunk.js.map": "/profile-card/static/js/2.5bff3375.chunk.js.map",
+    "static/js/3.ebd94a99.chunk.js": "/profile-card/static/js/3.ebd94a99.chunk.js",
+    "static/js/3.ebd94a99.chunk.js.map": "/profile-card/static/js/3.ebd94a99.chunk.js.map",
+    "index.html": "/profile-card/index.html",
+    "static/css/main.907f71c6.chunk.css.map": "/profile-card/static/css/main.907f71c6.chunk.css.map",
+    "static/js/2.5bff3375.chunk.js.LICENSE.txt": "/profile-card/static/js/2.5bff3375.chunk.js.LICENSE.txt",
+    "static/media/Like-Button.dec699ca.png": "/profile-card/static/media/Like-Button.dec699ca.png",
+    "static/media/kats-avatar.9b51434f.jpg": "/profile-card/static/media/kats-avatar.9b51434f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5cf00a1.js",
+    "static/js/2.5bff3375.chunk.js",
+    "static/css/main.907f71c6.chunk.css",
+    "static/js/main.d01a3d8d.chunk.js"
+  ]
+}
